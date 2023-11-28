@@ -6,6 +6,7 @@
         {content: "Wash the dishes", doneStatus: false, id: 43},
         {content: "Bake cookies", doneStatus: true, id: 123},
     ];
+    
     //создание заголовка
     function createMainHeader(name) {
         let mainHeader = document.createElement('h2');
